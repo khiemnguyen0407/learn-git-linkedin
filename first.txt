@@ -1,5 +1,8 @@
-first line
+first line -- Also first file
 2nd line
 3rd line
 4th line
 5th line
+
+This file comes before the others.
+Git is tracking my changes.
