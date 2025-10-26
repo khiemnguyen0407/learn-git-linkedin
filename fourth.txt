@@ -1,1 +1,14 @@
 forth file
+
+We shall now add a list of numbers line by line:
+0
+1
+2
+3
+4
+
+We shall now add a list of numbers in one single line:
+0   1   2   3   4
+
+We shall now add a second list of numbers in one single line:
+4   3   2   1   0
