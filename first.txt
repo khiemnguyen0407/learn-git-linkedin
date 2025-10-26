@@ -1,4 +1,1 @@
 This is the first line of this file.
-
-# This is now the second line of this file. We add a list of numbers below:
-[0, 1, 2, 3, 4]
