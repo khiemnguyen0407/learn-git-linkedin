@@ -7,4 +7,3 @@ f = np.exp(-np.sin(2*np.pi*x))
 plt.plot(x, f)
 plt.grid(True)
 plt.show()
-# %%
