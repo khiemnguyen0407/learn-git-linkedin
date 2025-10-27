@@ -15,3 +15,5 @@ plt.plot(x, f2)
 plt.grid(True)
 plt.show()
 # %%
+plt.figure()
+plt.plot(x, f1 + f2)
