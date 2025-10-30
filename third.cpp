@@ -1,4 +1,8 @@
-third file
-This is the third file I added to my project.
+#include <iostream>
 
-Git is really useful.
+int main()
+{
+    std::cout << "Hello world\n";
+
+    return 0;
+}
