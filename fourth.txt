@@ -1,6 +1,6 @@
 forth file
 
-We shall now add a list of numbers line by line:
+We shall now add the 1st list of numbers line by line:
 0
 1
 2
@@ -10,5 +10,5 @@ We shall now add a list of numbers line by line:
 We shall now add a list of numbers in one single line:
 0   1   2   3   4
 
-We shall now add a second list of numbers in one single line:
+We shall now add a 2nd list of numbers in one single line:
 4   3   2   1   0
